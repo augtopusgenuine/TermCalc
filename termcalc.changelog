@@ -1,0 +1,18 @@
+v0.1
+-- implemented basic arithmetic ( + - * / )
+
+v0.2
+-- added exponentation ( ^ )
+-- changed style for improved legibility
+-- added looping functionnality
+
+v0.3
+-- added divide by zero error
+-- added invalid operation error
+
+v0.4
+--fixed invalid operation triggering every time
+--stopped python from checking every possible operation value (backend)
+
+v0.5
+--added nul value errors
